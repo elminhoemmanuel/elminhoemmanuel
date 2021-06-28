@@ -12,7 +12,6 @@ I am Emmanuel, basically a normal guy just building stuff with code. I am cool (
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amodu/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/elminhoemmanuel)
 [<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://aoeportfolio.netlify.app/)
-[<img align="left" alt="email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://mailto:amodue15@gmail.com)
 
 <br>
 <br>
