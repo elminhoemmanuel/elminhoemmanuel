@@ -15,6 +15,7 @@ I am Emmanuel, basically a normal guy just building stuff with code. I am cool (
 
 <br>
 <br>
+
 ## Skills
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%2343853D.svg?&style=for-the-badge&logo=redux&logoColor=white" />
@@ -23,6 +24,8 @@ I am Emmanuel, basically a normal guy just building stuff with code. I am cool (
 <img align="left" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%23316192.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img align="left" alt="material-ui" src="https://img.shields.io/badge/material-ui-3DDC84?logo=material-ui&logoColor=white&style=for-the-badge" />
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%236DB33F.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+<br>
+<br>
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2320232a.svg?&style=for-the-badge&logo=sass&logoColor=%2361DAFB" />
 <br>
 <br>
