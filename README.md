@@ -21,6 +21,7 @@ I am Emmanuel, basically a normal guy just building stuff with code. I am cool (
 <img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%2343853D.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" alt="next.js" src="https://img.shields.io/badge/next.js%20-%23232F3E?logo=next.js&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%2361DAFB" />
 <img align="left" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%23316192.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img align="left" alt="material-ui" src="https://img.shields.io/badge/material-ui-3DDC84?logo=material-ui&logoColor=white&style=for-the-badge" />
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%236DB33F.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
