@@ -23,7 +23,7 @@ I am Emmanuel, basically a normal guy just building stuff with code. I am cool (
 <img align="left" alt="next.js" src="https://img.shields.io/badge/next.js%20-%23232F3E?logo=next.js&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%2361DAFB" />
-<img align="left" alt="graphql" src="https://img.shields.io/badge/graphQL%20-%2320232a.svg?&style=for-the-badge&logo=graphql&logoColor=%2361DAFB" />
+<img align="left" alt="graphql" src="https://img.shields.io/badge/graphQL%20-%2320232a.svg?&style=for-the-badge&logo=graphql&logoColor=%2361DAFB" /><br/>
 
 ## &nbsp;
 
